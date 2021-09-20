@@ -1,16 +1,36 @@
-### Hi there 👋
+ <h4>Apasionado de la tecnología y en constante capacitación. </br>
+Deseo ingresar al mundo IT y llevar adelante un crecimiento personal y profesional. </br>
+En búsqueda de oportunidades para formar parte de una organización prestigiosa, en un ambiente de trabajo saludable y de cooperación constante
+</h4>
 
-<!--
-**bordato87/bordato87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```js 
+ let aprendizajeEnCurso = {
+    Henry: "Desarrollador Full Stack . Programa intensivo de +700 horas basado en prácticas y proyectos reales",
+    ICARO: "Desarollador Full Stack."
+ };
+ 
+ let tecnologias = [ 
+    "JavaScript",
+    "ReactJS",
+    "Redux",
+    "Angular",
+    "NodeJS",
+    "Express",
+    "Sequelize",
+    "PostgreSQL",
+    "GIT",
+    "HTML", 
+    "CSS", 
+    "SASS" 
+];
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Si quieres saber más sobre mi:</h3>
+<h3 align="left">Contáctame</h3>
+<h4>📫 bordato87@gmail.com</h4>
+<p align="left">
+<a href="www.linkedin.com/in/bordato87
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bordato87
+" height="30" width="40" /> /bordato87</a>
+</p>
