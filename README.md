@@ -30,7 +30,7 @@ En búsqueda de oportunidades para formar parte de una organización prestigiosa
 <h3 align="left">Contáctame</h3>
 <h4>📫 bordato87@gmail.com</h4>
 <p align="left">
-<a href="www.linkedin.com/in/bordato87
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bordato87
+<a href="http://linkedin.com/in/bordato87
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/bordato87
 " height="30" width="40" /> /bordato87</a>
 </p>
